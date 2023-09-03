@@ -6,3 +6,4 @@ ZCZC w00 90 L05 Quiz related including studying: study chapter 1 from book and s
 ZCZC w00 5 L01 SCELE/Discord related
 ZCZC W00 10 L05 Quiz related including studying: do the week 00 quiz
 ZCZC W00 210 L70 Studying for other courses
+ZCZC W00 120 L70 Studying for other courses
