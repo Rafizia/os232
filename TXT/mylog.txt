@@ -1,6 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC w01 60 L05 Quiz related including studying: study chapter 1 from slide
+ZCZC w01 5 L01 SCELE/Discord related
+ZCZC W01 15 L05 Quiz related including studying: do the week 01 quiz
 ZCZC w00 10 L01 SCELE/Discord related
 ZCZC w00 90 L05 Quiz related including studying: study chapter 1 from book and slide
 ZCZC w00 5 L01 SCELE/Discord related
