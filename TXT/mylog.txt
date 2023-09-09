@@ -12,3 +12,4 @@ ZCZC w01 60 L05 Quiz related including studying: study chapter 1 from slide
 ZCZC w01 5 L01 SCELE/Discord related
 ZCZC W01 15 L05 Quiz related including studying: do the week 01 quiz
 ZCZC w01 30 L01 SCELE/Discord related
+ZCZC W01 5 L03 GitHub and git related, including commit, push, pull
