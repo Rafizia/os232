@@ -5,7 +5,7 @@
 <hr>
 
 Hi, my name is Muhammad Rafi Zia Ulhaq from Computer Science 2022 🧑‍💻<br>
-Welcome to my os232 github page 📄<br>
+Welcome to my os232 Github page 📄<br>
 <hr>
 
 © 2023 --- rafizia --- Version: 10 September 2023
