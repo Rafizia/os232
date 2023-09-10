@@ -14,3 +14,4 @@ ZCZC W01 15 L05 Quiz related including studying: do the week 01 quiz
 ZCZC W01 30 L01 SCELE/Discord related
 ZCZC W01 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W01 120 L32 YouTube: watching OS related topics
+ZCZC W01 15 L03 GitHub and git related, including commit, push, pull
