@@ -1,2 +1,1 @@
-# os232
-|| TARBALL || LINKS || LOG || GitHub ||
+index.md
