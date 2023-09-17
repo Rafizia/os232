@@ -12,3 +12,9 @@ This video is the complete version of Linux commands which contains 60 commands 
 This article contains a cheat sheet for 40 Linux essential commands. This article is very useful if you don't want to watch videos.
 * [[Video] Vim Basics in 8 Minutes](https://youtu.be/ggSyF1SVFr4?si=fTMMxuGP3KVPI5tj)<br>
 This video contains a basic tutorial on using Vim. This video is very useful for beginners who want to use Vim as an editor.
+* [[Article] Bash Scripting Cheatsheet](https://devhints.io/bash)<br>
+This article contains a list of common bash commands. Many commands in this article are important for Linux operation.
+* [[Video] C Programming Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A)<br>
+C language course video. This video is very useful for beginners who want to learn C programming.
+* [[Video] Cyber Security In 7 Minutes](https://www.youtube.com/watch?v=inWWhr5tnEA)<br>
+This video explains cyber security briefly, such as what cyber security is and the types of cyber attacks. 
