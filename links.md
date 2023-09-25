@@ -17,4 +17,8 @@ This article contains a list of common bash commands. Many commands in this arti
 * [[Video] C Programming Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A)<br>
 C language course video. This video is very useful for beginners who want to learn C programming.
 * [[Video] Cyber Security In 7 Minutes](https://www.youtube.com/watch?v=inWWhr5tnEA)<br>
-This video explains cyber security briefly, such as what cyber security is and the types of cyber attacks. 
+This video explains cyber security briefly, such as what cyber security is and the types of cyber attacks.
+* [[Article] Unix/Linux File System](https://www.geeksforgeeks.org/unix-file-system/)<br>
+This article contains an explanation of the file system structure in Unix/Linux.
+* [[Video] Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+This video explains the file system structure in Unix/Linux in a short 100 second video. 
