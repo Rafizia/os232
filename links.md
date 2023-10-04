@@ -21,4 +21,6 @@ This video explains cyber security briefly, such as what cyber security is and t
 * [[Article] Unix/Linux File System](https://www.geeksforgeeks.org/unix-file-system/)<br>
 This article contains an explanation of the file system structure in Unix/Linux.
 * [[Video] Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
-This video explains the file system structure in Unix/Linux in a short 100 second video. 
+This video explains the file system structure in Unix/Linux in a short 100 second video.
+* [[Article] Linux Basics: Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
+This article contains an explanation of static libraries and dynamic libraries in Linux. This article is very helpful for beginners who want to know the differences between these two libraries. 
