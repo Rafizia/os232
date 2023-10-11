@@ -23,4 +23,8 @@ This article contains an explanation of the file system structure in Unix/Linux.
 * [[Video] Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
 This video explains the file system structure in Unix/Linux in a short 100 second video.
 * [[Article] Linux Basics: Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
-This article contains an explanation of static libraries and dynamic libraries in Linux. This article is very helpful for beginners who want to know the differences between these two libraries. 
+This article contains an explanation of static libraries and dynamic libraries in Linux. This article is very helpful for beginners who want to know the differences between these two libraries.
+* [[Video] What is virtual memory?](https://www.youtube.com/watch?v=2quKyPnUShQ)<br>
+This video explains virtual memory from the meaning of virtual memory, the reasons for using virtual memory, and how virtual memory works.
+* [[Article] Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+If you don't want to watch a video, this article can be another reference regarding the explanation of virtual memory, such as the meaning of virtual memory, the advantages and disadvantages of virtual memory, and how virtual memory works. 
