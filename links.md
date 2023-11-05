@@ -27,4 +27,8 @@ This article contains an explanation of static libraries and dynamic libraries i
 * [[Video] What is virtual memory?](https://www.youtube.com/watch?v=2quKyPnUShQ)<br>
 This video explains virtual memory from the meaning of virtual memory, the reasons for using virtual memory, and how virtual memory works.
 * [[Article] Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
-If you don't want to watch a video, this article can be another reference regarding the explanation of virtual memory, such as the meaning of virtual memory, the advantages and disadvantages of virtual memory, and how virtual memory works. 
+If you don't want to watch a video, this article can be another reference regarding the explanation of virtual memory, such as the meaning of virtual memory, the advantages and disadvantages of virtual memory, and how virtual memory works.
+* [[Article] Process in Operating System](https://byjus.com/gate/process-in-operating-system-notes/)<br>
+This article explains what is process in an operating system. Apart from that, this article also explains components in the process such as stack, heap, text, and data.
+* [[Article] Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+This webpage provides a comprehensive overview of threads and concurrency in operating systems, highlighting their benefits and the mechanisms used to manage them. 
