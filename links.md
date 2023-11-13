@@ -31,4 +31,8 @@ If you don't want to watch a video, this article can be another reference regard
 * [[Article] Process in Operating System](https://byjus.com/gate/process-in-operating-system-notes/)<br>
 This article explains what is process in an operating system. Apart from that, this article also explains components in the process such as stack, heap, text, and data.
 * [[Article] Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
-This webpage provides a comprehensive overview of threads and concurrency in operating systems, highlighting their benefits and the mechanisms used to manage them. 
+This webpage provides a comprehensive overview of threads and concurrency in operating systems, highlighting their benefits and the mechanisms used to manage them.
+* [[Article] Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux#:~:text=Process%20synchronization%20in%20Linux%20involves,process%20is%20the%20child%20process)
+This article provides a comprehensive overview of process synchronization in Linux along with diagrams, making it a valuable resource for understanding these concepts. It explains the creation of parent and child processes and the memory image, open files, and address spaces they share. Additionally, it covers orphan processes, intentional and unintentional orphaning, and how unintentional orphan processes can be avoided using the process group mechanism.
+* [[Article] Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+This article discusses the introduction of deadlock in operating systems, examples of deadlock situations, and methods for preventing, detecting, and recovering from deadlocks. It also mentions the Banker's algorithm as a method for avoidance and discusses the deadlock detection and recovery phases.
