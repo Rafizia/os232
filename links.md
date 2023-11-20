@@ -32,7 +32,11 @@ If you don't want to watch a video, this article can be another reference regard
 This article explains what is process in an operating system. Apart from that, this article also explains components in the process such as stack, heap, text, and data.
 * [[Article] Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
 This webpage provides a comprehensive overview of threads and concurrency in operating systems, highlighting their benefits and the mechanisms used to manage them.
-* [[Article] Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux#:~:text=Process%20synchronization%20in%20Linux%20involves,process%20is%20the%20child%20process)
+* [[Article] Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux#:~:text=Process%20synchronization%20in%20Linux%20involves,process%20is%20the%20child%20process)<br>
 This article provides a comprehensive overview of process synchronization in Linux along with diagrams, making it a valuable resource for understanding these concepts. It explains the creation of parent and child processes and the memory image, open files, and address spaces they share. Additionally, it covers orphan processes, intentional and unintentional orphaning, and how unintentional orphan processes can be avoided using the process group mechanism.
-* [[Article] Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+* [[Article] Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 This article discusses the introduction of deadlock in operating systems, examples of deadlock situations, and methods for preventing, detecting, and recovering from deadlocks. It also mentions the Banker's algorithm as a method for avoidance and discusses the deadlock detection and recovery phases.
+* [[Article] Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/)<br>
+Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
+* [[Video] Chapter 5: Compiling a Cross-Toolchain](https://www.youtube.com/watch?v=uggsnHSELos)<br>
+This video is very helpful because some of the details of chapter 5 in the book are a little difficult to follow but are explained concisely in this video. Apart from that, the explanation in this video is also very clear and easy to understand.
