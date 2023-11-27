@@ -40,3 +40,5 @@ This article discusses the introduction of deadlock in operating systems, exampl
 Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
 * [[Video] Chapter 5: Compiling a Cross-Toolchain](https://www.youtube.com/watch?v=uggsnHSELos)<br>
 This video is very helpful because some of the details of chapter 5 in the book are a little difficult to follow but are explained concisely in this video. Apart from that, the explanation in this video is also very clear and easy to understand.
+* [[Video] Chapter 6: Cross-Compiling Temporary Tools](https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8)<br>
+This video explains the details of chapter 6 of the book. I think this video is very useful for doing week 9 assignments.
